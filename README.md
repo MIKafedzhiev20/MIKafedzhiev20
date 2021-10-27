@@ -21,6 +21,13 @@
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
 
 <hr>
+#Badges
+<details style = "display: inline;">
+  <summary><b>📚 Badges</b></summary>
+
+<img align="left" alt="Word" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" >
+<img align="left" alt="html" width="200px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
+</details>  
   
 
 # Code, repeat!
