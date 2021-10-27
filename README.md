@@ -1,7 +1,7 @@
 # Hi, my name is Martin Kafedzhiev
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="https://c.tenor.com/VrzXhtoSwcsAAAAd/hacker-typing.gif" />
+<img align="right" height="250" width="375" alt="" src="https://www.cobosocial.com/wp-content/uploads/2021/03/Cat-Nyan-Gif.-Courtesy-of-Chris-Torres.gif.pagespeed.ce.fpgvaFnX1c.gif" />
 
 ## Talking about Personal Stuffs:
 
@@ -21,7 +21,6 @@
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
 
 <hr>
-#Badges
 <details style = "display: inline;">
   <summary><b>📚 Badges</b></summary>
 
