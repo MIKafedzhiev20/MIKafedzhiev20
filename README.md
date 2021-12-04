@@ -1,7 +1,7 @@
 # Hi, my name is Martin Kafedzhiev
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="https://www.cobosocial.com/wp-content/uploads/2021/03/Cat-Nyan-Gif.-Courtesy-of-Chris-Torres.gif.pagespeed.ce.fpgvaFnX1c.gif" />
+<img align="right" height="400" width="400" alt="" src="https://c.tenor.com/HDY0rzSlVNkAAAAC/nyan-creeper.gif" />
 
 ## Talking about Personal Stuffs:
 
