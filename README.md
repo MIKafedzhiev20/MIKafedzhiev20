@@ -1,7 +1,7 @@
 # Hi, my name is Martin Kafedzhiev
 <hr>
 
-<img align="right" height="400" width="400" alt="" src="https://c.tenor.com/HDY0rzSlVNkAAAAC/nyan-creeper.gif" />
+<img align="right" height="400" width="400" alt="" src="https://ibb.co/mG4mdpQ" />
 
 ## Talking about Personal Stuffs:
 
