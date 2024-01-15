@@ -1,7 +1,7 @@
 # Hi, my name is Martin Kafedzhiev
 <hr>
 
-<img align="right" height="400" width="400" alt="" src="https://ibb.co/mG4mdpQ" />
+<img align="right" height="400" width="400" alt="" src="https://i.ibb.co/c1QPRqz/rj-night.png" />
 
 ## Talking about Personal Stuffs:
 
