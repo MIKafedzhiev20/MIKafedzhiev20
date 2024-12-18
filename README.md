@@ -1,7 +1,7 @@
 # Hi, my name is Martin Kafedzhiev
 <hr>
 
-<img align="right" height="400" width="400" alt="" src="https://i.ibb.co/c1QPRqz/rj-night.png" />
+<img align="right" height="400" width="400" alt="" src="https://tenor.com/view/snep-happy-leopard-snow-snow-leopard-gif-12617092264761552283" />
 
 ## Talking about Personal Stuffs:
 
