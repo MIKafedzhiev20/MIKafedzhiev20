@@ -1,7 +1,7 @@
 # Hi, my name is Martin Kafedzhiev
 <hr>
 
-<img align="right" height="400" width="400" alt="" src="https://tenor.com/view/snep-happy-leopard-snow-snow-leopard-gif-12617092264761552283" />
+<img align="right" height="400" width="400" alt="" src="https://media.tenor.com/yCPR0oRwoSUAAAAM/snep-snow-leopard.gif" />
 
 ## Talking about Personal Stuffs:
 
@@ -30,7 +30,6 @@
 </details>  
   
 <hr>
-
 # Tu eris tranquillitas et mane CRINITUS 🐱‍👤
 
 
